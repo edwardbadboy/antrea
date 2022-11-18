@@ -15,7 +15,7 @@ jobs:
     name: Trigger main docs update
     runs-on: ubuntu-latest
     steps:
-    - uses: benc-uk/workflow-dispatch@v1
+    - uses: benc-uk/workflow-dispatch@v121
       with:
         repo: antrea-io/website
         ref: refs/heads/main
