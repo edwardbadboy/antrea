@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: get-version
     steps:
-    - uses: benc-uk/workflow-dispatch@v1
+    - uses: benc-uk/workflow-dispatch@v121
       with:
         repo: antrea-io/website
         ref: refs/heads/main
