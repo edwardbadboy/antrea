@@ -41,8 +41,8 @@ require (
 	github.com/mdlayher/packet v1.1.2
 	github.com/miekg/dns v1.1.67
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822
-	github.com/onsi/ginkgo/v2 v2.23.4
-	github.com/onsi/gomega v1.37.0
+	github.com/onsi/ginkgo/v2 v2.24.0
+	github.com/onsi/gomega v1.38.0
 	github.com/osrg/gobgp/v3 v3.37.0
 	github.com/pkg/sftp v1.13.9
 	github.com/prometheus/client_golang v1.22.0
@@ -92,6 +92,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
 	github.com/ClickHouse/ch-go v0.66.0 // indirect
 	github.com/MakeNowJust/heredoc v1.0.0 // indirect
+	github.com/Masterminds/semver/v3 v3.3.1 // indirect
 	github.com/NYTimes/gziphandler v1.1.1 // indirect
 	github.com/VividCortex/ewma v1.2.0 // indirect
 	github.com/alexflint/go-filemutex v1.3.0 // indirect
